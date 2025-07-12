@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashedrahat
 - 👀 I’m interested in web design & development
-- 📫 How to reach me imrashedrahat@gmail.com
+- 📫 How to reach me mdrashedahmed.work@gmail.com
 
 <!---
 rashedrahat/rashedrahat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
